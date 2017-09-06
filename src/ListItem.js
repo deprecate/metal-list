@@ -64,4 +64,5 @@ ListItem.STATE = {
 	}
 };
 
+export { ListItem };
 export default ListItem;

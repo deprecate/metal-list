@@ -72,4 +72,5 @@ List.STATE = {
 	}
 };
 
+export { List };
 export default List;
